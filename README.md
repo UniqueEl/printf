@@ -1,1 +1,1 @@
-This repository covers my team task with Imran Suleiman
+This repository covers the ALX task with Imran Suleiman and UmarFaruq Adam
