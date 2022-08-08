@@ -1,9 +1,11 @@
 #include "main.h"
 
-/************************* PRINT CHAR *************************/
+/************************* PRINT CHAR ****************************/
 
 /**
  * print_char - Prints a char
+ * to the standard 
+ * output
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
