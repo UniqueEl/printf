@@ -3,7 +3,7 @@
 /********************* PRINT POINTER *********************/
 /**
  * print_pointer - Prints the value of a pointer variable
- * to the 
+ * to the
  * standard output
  * @types: List a of arguments
  * @buffer: Buffer array to handle print

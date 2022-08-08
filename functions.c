@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * to the standard 
+ * to the standard
  * output
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
