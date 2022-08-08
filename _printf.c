@@ -1,4 +1,5 @@
-include "main.h"
+#include "main.h"
+#include <stdarg.h>
 
 void print_buffer(char buffer[], int *buff_ind);
 
